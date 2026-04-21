@@ -37,41 +37,13 @@ This project is part of a **full-stack ML system**:
 
 ---
 
-## 📂 Folder Structure
 
-```
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-```
-
----
 
 ## 🔌 Backend Integration
 
 This UI is designed to work with a backend API.
 
-Example API call:
 
-```javascript
-fetch("https://your-backend-url/predict", {
-  method: "POST",
-  headers: {
-    "Content-Type": "application/json"
-  },
-  body: JSON.stringify({
-    feature1: value1,
-    feature2: value2
-  })
-})
-.then(res => res.json())
-.then(data => {
-  console.log(data);
-});
-```
-
----
 
 ## 🌐 Deployment
 
@@ -86,11 +58,7 @@ To deploy:
 
 ---
 
-## 📸 Preview
 
-*Add screenshots of your UI here*
-
----
 
 ## ⚠️ Important Note
 
@@ -113,12 +81,15 @@ The Machine Learning model and backend logic are hosted separately.
 Feel free to fork and improve the UI.
 
 ---
+## Deployement Link
+https://demand-and-forecasting-ui-d76e.vercel.app/
 
 ## 📧 Contact
 
 For any queries or collaboration:
 
-* GitHub: https://github.com/your-username
+* GitHub:https://github.com/vishalrj291
+* 
 
 ---
 
